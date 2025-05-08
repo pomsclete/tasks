@@ -20,6 +20,6 @@ Bachelor CSI 2024-2025
  * [x] composer install
  * [x] php artisan key:generate
  * [x] Create database in phpMyAdmin
- * [x]add database name in .env file
+ * [x] add database name in .env file
  * [x] php artisan migrate
  * [x] php artisan serve
